@@ -7,3 +7,5 @@
 ### 2. Sort 012 without using sorting algorithm.
 ### 3. Union of two sorted arrays.
 ### 4. Cylically rotate an array by one.
+### 5. Kadane'a Algorithm
+### 6. Minimise the Maximum difference between Heights.
