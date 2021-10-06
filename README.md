@@ -9,3 +9,5 @@
 ### 4. Cylically rotate an array by one.
 ### 5. Kadane'a Algorithm
 ### 6. Minimise the Maximum difference between Heights.
+### 7. Minimum steps to reach the end of Array.
+### 8. Find Duplicates in an Array.
