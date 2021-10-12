@@ -12,3 +12,4 @@
 ### 7. Minimum steps to reach the end of Array.
 ### 8. Find Duplicates in an Array.
 ### 9. Merge Two sorted arrays without using extra space.
+### 10. Merge Intervals
